@@ -21,3 +21,4 @@ Link de pesquisa:
 
 Site do YOLO: https://pjreddie.com/darknet/yolo/
 Repositório da biblioteca Ultralytics: https://github.com/ultralytics/yolov5
+link do video usado: https://www.youtube.com/watch?v=Nn7goztbeGU
